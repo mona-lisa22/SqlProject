@@ -1,4 +1,3 @@
-# SqlProject
 # Inventory Management System SQL Project
 
 This project helps manage products, sales, suppliers, and restocking with SQL. Key features include:
